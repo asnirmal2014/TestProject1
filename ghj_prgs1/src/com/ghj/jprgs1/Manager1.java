@@ -7,5 +7,11 @@ public class Manager1
 	  System.out.println("Java");
 	  System.out.println("J2EE");
 	  System.out.println("Oracle");
+	  System.out.println("Selenium");
+	  System.out.println("TestNG");
+	  System.out.println("Cucumber");
+	  System.out.println("Jenkins");
+	  System.out.println("Docker");
+	  System.out.println("DevOps");
    }      
 } 
