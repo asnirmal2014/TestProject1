@@ -13,5 +13,6 @@ public class Manager1
 	  System.out.println("Jenkins");
 	  System.out.println("Docker");
 	  System.out.println("DevOps");
+	  System.out.println("Testing"); 
    }      
 } 
